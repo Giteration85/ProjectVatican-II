@@ -5,3 +5,5 @@ I'm planning on cleaning data from six sources, then pushing that data into Tabl
 The first step is cleaning. There are six datasets, ranging per initial year in decades 1940-1990. THese I will clean, and write/record a VBA macro that "remembers" what I've done on the first two datasets, and automates the work on the other four. This will make the work faster. 
 
 Thereafter I'll perform variable selection to examine some metrics before Vatican II in 1960, and then after Vatican II. The variables will hopefully reveal some meaningful information about what happened to parish people and their lives in the wake of the council, to see if the council itself caused changes alleged against its councilmen, or if the council merely unfolded from changes already taking place in the Church. 
+
+Change test
